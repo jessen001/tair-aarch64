@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bases>
+  <scm version="1.0">
+    <app>
+      <corp>集团</corp>
+      <deptment>
+        <main>存储技术事业部</main>
+        <sub>Tair</sub>
+        <three>存储</three>
+      </deptment>
+    </app>
+  </scm>
+</bases>
+
